@@ -1,3 +1,18 @@
+# React Hooks
+### useState
+### useEffect
+### useRef
+
+## Utilizes Hooks To Build Stateful Components Out of Functional Components
+
+### Features
+* React 16.8
+* Hooks
+* Axios
+* Tailwind CSS
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
